@@ -1,4 +1,4 @@
-''' This version of the function works for both sorted and unsorted data vector
+''' This version of the function works for both sorted and unsorted data vectors
 '''
 def has_pair_with_sum(data, sum):
     comps = [] # Complements
