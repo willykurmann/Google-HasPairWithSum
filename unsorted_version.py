@@ -1,4 +1,4 @@
-''' The function should return true if a pair in data adds up to the sum.
+''' This version of the function works for both sorted and unsorted data vector
 '''
 def has_pair_with_sum(data, sum):
     comps = [] # Complements
