@@ -1,4 +1,4 @@
-''' This version of the function works for only for sorted data vector
+''' This version of the function works only for sorted data vector
 '''
 def has_pair_with_sum(data, sum):
     low = 0
