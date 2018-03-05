@@ -3,7 +3,7 @@ https://www.youtube.com/watch?v=XKu_SEDAykw
 
 
 ## Introduction
-Find the pair that add up to the sum.
+Find the pair that adds up to the sum.
 
 ```
 [1,2,3,9] Sum = 8 NO
